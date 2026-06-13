@@ -1,0 +1,19 @@
+# Visual Studio build output
+x64/
+Debug/
+Release/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.log
+
+# Visual Studio cache/options
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+
+# Compiled files
+*.o
+*.obj
